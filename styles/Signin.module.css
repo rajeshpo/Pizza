@@ -1,0 +1,14 @@
+.signin{
+ 
+
+    height:500px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+}
+
+.signin button{
+    margin-top: 20px;
+}

@@ -1,0 +1,30 @@
+.modal{
+    width:100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position:fixed;
+top:0;
+   background-color: rgba(0, 0, 0, 0.541);
+    z-index:999;
+   
+}
+
+.wrapper{
+    background-color:white;
+    width:50%;
+    height: 110vh;
+    padding:50px;
+    border-radius: 10px;
+    position: relative;
+}
+
+.cross{
+    display: flex;
+    align-items:center;
+   text-align: center;
+
+    float: right;
+    
+}
